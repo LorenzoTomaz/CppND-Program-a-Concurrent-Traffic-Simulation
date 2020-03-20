@@ -1,4 +1,7 @@
 cmake_minimum_required(VERSION 3.11.3)
+# set the openvc cmake path
+#set (OpenCV_DIR <path/opencv/build>)
+
 
 # set(CMAKE_CXX_STANDARD 17)
 project(OSM_A_star_search)
